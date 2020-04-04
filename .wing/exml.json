@@ -1,0 +1,20 @@
+{
+  "1706066fdc5": {
+    "backgroundX": 0,
+    "backgroundY": 0,
+    "backgroundWidth": -1,
+    "backgroundHeight": -1,
+    "useBgImage": true,
+    "useBgColor": true,
+    "backgroundAlpha": 100
+  },
+  "17060c6b716": {
+    "path": "..\\resource\\eui_myself\\title.ts",
+    "class": "title",
+    "parentPath": ""
+  },
+  "global": {
+    "globalAutoLayerMarkEnable": true,
+    "globalAdsorbEnable": false
+  }
+}

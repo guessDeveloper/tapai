@@ -1,0 +1,179 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,track_sb_png,description_json,icon-help_png,line_bg_png,blueCards_json,greenCards_json,redCards_json,yellowCards_json,icon_arrow_right_png,icon_arrow_left_png,cardBg_jpg,arrow_move_png,resst_png,close_png,login_bg_png,finger_png,34_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "icon-help_png",
+			"type": "image",
+			"url": "assets/Button/icon-help.png"
+		},
+		{
+			"name": "line_bg_png",
+			"type": "image",
+			"url": "assets/line_bg.png"
+		},
+		{
+			"name": "blueCards_json",
+			"type": "sheet",
+			"url": "assets/blueCards.json",
+			"subkeys": "ACA,ACB,ACC,ACD,BCA,BCB,BCC,BCD,CCA,CCB,CCC,CCD,DCA,DCB,DCC,DCD"
+		},
+		{
+			"name": "greenCards_json",
+			"type": "sheet",
+			"url": "assets/greenCards.json",
+			"subkeys": "ADA,ADB,ADC,ADD,BDA,BDB,BDC,BDD,CDA,CDB,CDC,CDD,DDA,DDB,DDC,DDD"
+		},
+		{
+			"name": "redCards_json",
+			"type": "sheet",
+			"url": "assets/redCards.json",
+			"subkeys": "AAA,AAB,AAC,AAD,BAA,BAB,BAC,BAD,CAA,CAB,CAC,CAD,DAA,DAB,DAC,DAD"
+		},
+		{
+			"name": "yellowCards_json",
+			"type": "sheet",
+			"url": "assets/yellowCards.json",
+			"subkeys": "ABA,ABB,ABC,ABD,BBA,BBB,BBC,BBD,CBA,CBB,CBC,CBD,DBA,DBB,DBC,DBD"
+		},
+		{
+			"name": "icon_arrow_right_png",
+			"type": "image",
+			"url": "assets/icon_arrow_right.png"
+		},
+		{
+			"name": "icon_arrow_left_png",
+			"type": "image",
+			"url": "assets/icon_arrow_left.png"
+		},
+		{
+			"name": "cardBg_jpg",
+			"type": "image",
+			"url": "assets/cardBg.jpg"
+		},
+		{
+			"name": "arrow_move_png",
+			"type": "image",
+			"url": "assets/arrow_move.png"
+		},
+		{
+			"name": "resst_png",
+			"type": "image",
+			"url": "assets/resst.png"
+		},
+		{
+			"name": "close_png",
+			"type": "image",
+			"url": "assets/close.png"
+		},
+		{
+			"name": "login_bg_png",
+			"type": "image",
+			"url": "assets/login_bg.png"
+		},
+		{
+			"name": "finger_png",
+			"type": "image",
+			"url": "assets/finger.png"
+		},
+		{
+			"name": "34_png",
+			"type": "image",
+			"url": "assets/34.png"
+		}
+	]
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="titleSkin" width="320" height="110" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="17060c6b716" ></w:Config>
+	<e:BitmapLabel id="content" width="80" height="30" y="72" x="98.5"/>
+</e:Skin>
